@@ -1,0 +1,33 @@
+{
+  "resCode": "0000",
+  "resMsg": "提交成功",
+  "data": {
+    "statusCode": "2012",
+    "statusMsg": "查询成功",
+    "result": {
+      "caseCode": "2,3,4",
+      "caseMsg": "比中前科、涉毒、吸毒",
+      "caseDetails": [
+        {
+          "caseSource": "前科",
+          "caseTime": "2013-03-31 00:00:00"
+        },
+        {
+          "caseType": "绑架案",
+          "caseSource": "前科",
+          "caseTime": "未设置时间"
+        },
+        {
+          "caseType": "无",
+          "caseSource": "涉毒",
+          "caseTime": "未设置时间"
+        },
+        {
+          "caseType": "无",
+          "caseSource": "吸毒",
+          "caseTime": "未设置时间"
+        }
+      ]
+    }
+  }
+}
